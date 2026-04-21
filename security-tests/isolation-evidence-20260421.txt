@@ -1,0 +1,4 @@
+Context isolation evidence artifact
+Date: 2026-04-21
+Marker: GITHUB-ISO-20260421-THETA-7711
+Purpose: Verify in-scope write permission on non-default branch for authorized repository only.
